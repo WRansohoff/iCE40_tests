@@ -1,0 +1,5 @@
+# Simple Icestick constraints file.
+# Clock
+set_io clk  21
+# 'Neopixel' LED strip.
+set_io leds 91
